@@ -4,4 +4,6 @@ This repo is for paper "Continuous and Distribution-free Probabilistic Wind Powe
 
 Authors: Honglin Wen, Pierre Pinson, Jinghuan Ma, Jie Gu, Zhijian Jin
 
+Dependency: pytorch, nflows
+
 Email: linlin00@sjtu.edu.cn
